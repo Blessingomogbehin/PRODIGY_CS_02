@@ -1,5 +1,6 @@
 # PRODIGY_CS_02
-IMAGE ENCRYPTION AND DECRYPTION
+IMAGE ENCRYPTION AND DECRYPTION.
+
 This project is based on image encryption and decryption using pixel manipulation.
 the program was implemented on python using Pillow library this image shows the steps to the installation of pillow library in python
 (using the pip library run on command prompt)![pillow library](https://github.com/Blessingomogbehin/PRODIGY_CS_02/assets/169431678/0e01c78b-28ea-462d-9ec9-790441d5306d)
